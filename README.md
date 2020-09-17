@@ -1,2 +1,2 @@
 # jquery-finalwork
-https://github.com/yaiiow159/jquery-finalwork
+https://yaiiow159.github.io/jquery-finalwork/jquery-finalwork
