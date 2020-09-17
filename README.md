@@ -1,2 +1,2 @@
 # jquery-finalwork
-JQ最終作業
+https://github.com/yaiiow159/jquery-finalwork
